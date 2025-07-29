@@ -1,0 +1,151 @@
+Order Date,Product Category,Product Name,Unit Price (€),Quantity Sold,Revenue (€),Country,Region
+2023-03-05,Beauty,Perfume,97.96,5,489.8,France,Western Europe
+2023-08-30,Home & Kitchen,Vacuum Cleaner,170.2,2,340.4,Sweden,Northern Europe
+2023-02-10,Beauty,Moisturizer,81.4,5,407.0,Spain,Southern Europe
+2023-05-03,Beauty,Moisturizer,217.0,1,217.0,Denmark,Northern Europe
+2023-01-25,Clothing,T-Shirt,160.81,2,321.62,Norway,Northern Europe
+2023-07-24,Clothing,T-Shirt,377.78,5,1888.9,Sweden,Northern Europe
+2023-02-15,Clothing,Jacket,221.93,3,665.79,Switzerland,Western Europe
+2023-02-28,Electronics,Headphones,389.83,2,779.66,Sweden,Northern Europe
+2023-09-09,Books,Self-help,465.13,2,930.26,Belgium,Western Europe
+2023-11-11,Clothing,Jacket,40.03,1,40.03,Switzerland,Western Europe
+2023-02-21,Electronics,Laptop,178.16,1,178.16,Denmark,Northern Europe
+2023-05-02,Electronics,Laptop,122.26,5,611.3,Italy,Southern Europe
+2023-01-04,Beauty,Moisturizer,112.09,3,336.27,France,Western Europe
+2023-07-18,Books,Fiction,405.02,1,405.02,Denmark,Northern Europe
+2023-06-12,Electronics,Headphones,209.99,4,839.96,Italy,Southern Europe
+2023-04-07,Home & Kitchen,Cookware Set,481.05,3,1443.15,Spain,Southern Europe
+2023-03-02,Home & Kitchen,Vacuum Cleaner,362.33,2,724.66,France,Western Europe
+2023-02-19,Home & Kitchen,Mixer,64.29,3,192.87,Norway,Northern Europe
+2024-01-01,Books,Fiction,242.36,1,242.36,Norway,Northern Europe
+2023-04-21,Books,Biography,148.67,3,446.01,Switzerland,Western Europe
+2023-03-31,Beauty,Moisturizer,228.68,4,914.72,Belgium,Western Europe
+2023-05-01,Books,Fiction,416.47,5,2082.35,Belgium,Western Europe
+2023-08-23,Electronics,Headphones,23.17,3,69.51,Germany,Western Europe
+2023-01-22,Beauty,Perfume,222.36,5,1111.8,Norway,Northern Europe
+2023-01-17,Electronics,Smartphone,63.69,4,254.76,Switzerland,Western Europe
+2023-02-28,Electronics,Laptop,423.31,2,846.62,Belgium,Western Europe
+2023-07-09,Books,Biography,166.42,2,332.84,Netherlands,Western Europe
+2023-07-20,Clothing,T-Shirt,68.43,5,342.15,Sweden,Northern Europe
+2023-10-03,Home & Kitchen,Vacuum Cleaner,344.62,5,1723.1,Netherlands,Western Europe
+2023-01-15,Home & Kitchen,Mixer,190.26,5,951.3,Switzerland,Western Europe
+2023-01-26,Home & Kitchen,Mixer,494.97,1,494.97,Norway,Northern Europe
+2023-06-07,Clothing,Jacket,304.68,3,914.04,Germany,Western Europe
+2023-02-10,Books,Fiction,269.28,1,269.28,Denmark,Northern Europe
+2023-01-12,Electronics,Headphones,369.99,3,1109.97,Sweden,Northern Europe
+2023-03-11,Books,Biography,336.13,1,336.13,Sweden,Northern Europe
+2023-10-26,Beauty,Lipstick,87.6,5,438.0,France,Western Europe
+2023-07-01,Books,Self-help,88.05,3,264.15,Netherlands,Western Europe
+2023-10-11,Electronics,Smartphone,388.7,2,777.4,Denmark,Northern Europe
+2023-09-30,Clothing,Jeans,460.99,4,1843.96,Italy,Southern Europe
+2023-06-03,Electronics,Headphones,406.39,2,812.78,Belgium,Western Europe
+2023-03-21,Home & Kitchen,Mixer,60.13,3,180.39,Sweden,Northern Europe
+2023-12-19,Beauty,Moisturizer,92.86,5,464.3,Germany,Western Europe
+2023-10-03,Beauty,Moisturizer,300.47,3,901.41,Germany,Western Europe
+2023-07-03,Books,Self-help,210.24,3,630.72,Netherlands,Western Europe
+2023-03-14,Home & Kitchen,Mixer,219.96,3,659.88,Spain,Southern Europe
+2023-02-14,Home & Kitchen,Mixer,303.79,4,1215.16,France,Western Europe
+2023-10-15,Electronics,Smartphone,341.84,4,1367.36,Spain,Southern Europe
+2023-07-24,Electronics,Smartphone,200.18,2,400.36,France,Western Europe
+2023-09-02,Books,Fiction,231.07,2,462.14,Switzerland,Western Europe
+2023-01-13,Books,Fiction,403.48,2,806.96,Spain,Southern Europe
+2023-03-04,Home & Kitchen,Cookware Set,46.92,4,187.68,Sweden,Northern Europe
+2023-03-04,Books,Self-help,226.53,3,679.59,Spain,Southern Europe
+2023-10-27,Books,Fiction,324.75,1,324.75,Belgium,Western Europe
+2023-08-03,Books,Biography,202.77,4,811.08,Italy,Southern Europe
+2023-03-30,Home & Kitchen,Vacuum Cleaner,292.1,3,876.3,Belgium,Western Europe
+2023-08-24,Books,Fiction,274.08,5,1370.4,Norway,Northern Europe
+2023-01-12,Beauty,Perfume,242.77,3,728.31,Denmark,Northern Europe
+2023-01-08,Electronics,Laptop,185.01,5,925.05,Spain,Southern Europe
+2023-04-21,Clothing,Jeans,421.3,4,1685.2,Belgium,Western Europe
+2023-10-20,Clothing,Jacket,229.84,1,229.84,Norway,Northern Europe
+2023-12-18,Clothing,Jacket,34.24,3,102.72,France,Western Europe
+2023-11-03,Beauty,Lipstick,485.15,4,1940.6,France,Western Europe
+2023-04-13,Electronics,Laptop,313.6,5,1568.0,Italy,Southern Europe
+2023-07-23,Books,Self-help,213.9,1,213.9,France,Western Europe
+2023-04-17,Books,Fiction,278.18,1,278.18,Switzerland,Western Europe
+2023-09-16,Beauty,Perfume,292.39,2,584.78,Norway,Northern Europe
+2023-01-12,Books,Self-help,69.68,1,69.68,Netherlands,Western Europe
+2023-08-13,Electronics,Headphones,190.29,1,190.29,Italy,Southern Europe
+2023-04-17,Home & Kitchen,Mixer,43.84,3,131.52,Germany,Western Europe
+2023-09-06,Clothing,T-Shirt,400.46,2,800.92,Denmark,Northern Europe
+2023-03-31,Beauty,Perfume,347.26,3,1041.78,Germany,Western Europe
+2023-10-29,Electronics,Laptop,307.03,4,1228.12,Sweden,Northern Europe
+2023-06-17,Home & Kitchen,Vacuum Cleaner,99.15,2,198.3,Spain,Southern Europe
+2023-07-02,Books,Self-help,229.44,3,688.32,France,Western Europe
+2023-05-12,Beauty,Perfume,417.94,5,2089.7,Switzerland,Western Europe
+2023-10-18,Electronics,Headphones,360.25,2,720.5,Italy,Southern Europe
+2023-07-21,Clothing,Jeans,281.08,5,1405.4,Germany,Western Europe
+2023-07-21,Electronics,Headphones,117.37,4,469.48,Italy,Southern Europe
+2023-08-28,Beauty,Lipstick,483.13,1,483.13,Italy,Southern Europe
+2023-11-03,Beauty,Moisturizer,206.9,4,827.6,Germany,Western Europe
+2023-12-24,Electronics,Smartphone,105.17,1,105.17,Sweden,Northern Europe
+2023-08-03,Beauty,Perfume,137.5,5,687.5,Netherlands,Western Europe
+2023-07-12,Electronics,Headphones,369.37,4,1477.48,Belgium,Western Europe
+2023-01-29,Clothing,Jacket,333.56,5,1667.8,Norway,Northern Europe
+2023-06-02,Clothing,Jacket,127.64,2,255.28,Denmark,Northern Europe
+2023-04-16,Electronics,Smartphone,367.8,3,1103.4,Norway,Northern Europe
+2023-01-02,Clothing,Jacket,492.99,3,1478.97,Italy,Southern Europe
+2023-11-19,Electronics,Smartphone,305.53,3,916.59,Belgium,Western Europe
+2023-12-10,Beauty,Perfume,361.98,1,361.98,Switzerland,Western Europe
+2023-06-10,Beauty,Perfume,375.04,5,1875.2,Italy,Southern Europe
+2023-05-12,Clothing,Jeans,159.21,1,159.21,Germany,Western Europe
+2023-08-11,Home & Kitchen,Vacuum Cleaner,304.75,3,914.25,France,Western Europe
+2023-04-21,Electronics,Laptop,157.08,4,628.32,Netherlands,Western Europe
+2023-01-27,Electronics,Headphones,334.38,3,1003.14,Sweden,Northern Europe
+2023-10-30,Beauty,Moisturizer,451.29,5,2256.45,Belgium,Western Europe
+2023-07-15,Books,Self-help,102.26,1,102.26,Norway,Northern Europe
+2023-04-26,Books,Self-help,159.46,2,318.92,Belgium,Western Europe
+2023-06-27,Books,Fiction,231.53,1,231.53,Netherlands,Western Europe
+2023-04-22,Books,Fiction,376.67,3,1130.01,Sweden,Northern Europe
+2023-07-16,Clothing,T-Shirt,285.93,1,285.93,Netherlands,Western Europe
+2023-08-15,Electronics,Headphones,397.31,4,1589.24,Sweden,Northern Europe
+2023-08-21,Home & Kitchen,Vacuum Cleaner,437.7,3,1313.1,Netherlands,Western Europe
+2023-09-03,Beauty,Lipstick,67.5,5,337.5,Norway,Northern Europe
+2023-12-05,Electronics,Smartphone,337.4,4,1349.6,Germany,Western Europe
+2023-03-16,Books,Fiction,249.46,1,249.46,Netherlands,Western Europe
+2023-05-18,Clothing,T-Shirt,98.15,5,490.75,Netherlands,Western Europe
+2023-11-24,Home & Kitchen,Vacuum Cleaner,465.07,2,930.14,Spain,Southern Europe
+2023-09-01,Beauty,Perfume,17.77,1,17.77,France,Western Europe
+2023-04-11,Clothing,T-Shirt,30.02,3,90.06,Denmark,Northern Europe
+2023-10-08,Books,Self-help,178.32,3,534.96,Italy,Southern Europe
+2023-01-12,Beauty,Lipstick,411.09,4,1644.36,Switzerland,Western Europe
+2023-12-30,Beauty,Perfume,366.33,3,1098.99,Switzerland,Western Europe
+2023-02-08,Home & Kitchen,Vacuum Cleaner,44.41,5,222.05,Germany,Western Europe
+2023-08-25,Electronics,Smartphone,183.39,5,916.95,Sweden,Northern Europe
+2023-10-12,Beauty,Perfume,212.09,4,848.36,Spain,Southern Europe
+2023-08-05,Clothing,Jeans,147.62,1,147.62,Spain,Southern Europe
+2023-09-05,Electronics,Headphones,400.1,3,1200.3,Netherlands,Western Europe
+2023-07-15,Electronics,Laptop,12.98,4,51.92,Netherlands,Western Europe
+2023-10-29,Beauty,Lipstick,165.85,1,165.85,Germany,Western Europe
+2023-11-08,Electronics,Smartphone,87.83,3,263.49,Norway,Northern Europe
+2023-03-04,Clothing,T-Shirt,234.03,2,468.06,Norway,Northern Europe
+2023-02-02,Clothing,Jacket,152.49,3,457.47,Italy,Southern Europe
+2023-06-18,Electronics,Headphones,221.53,2,443.06,Switzerland,Western Europe
+2023-06-24,Clothing,Jacket,424.99,2,849.98,Italy,Southern Europe
+2023-02-06,Home & Kitchen,Cookware Set,305.17,1,305.17,Sweden,Northern Europe
+2023-11-06,Beauty,Moisturizer,274.78,3,824.34,Switzerland,Western Europe
+2023-02-11,Electronics,Headphones,201.2,2,402.4,Sweden,Northern Europe
+2023-02-18,Clothing,T-Shirt,196.76,4,787.04,Belgium,Western Europe
+2023-08-28,Home & Kitchen,Vacuum Cleaner,291.61,1,291.61,Denmark,Northern Europe
+2023-10-16,Beauty,Lipstick,246.93,1,246.93,Belgium,Western Europe
+2023-05-03,Beauty,Lipstick,65.33,4,261.32,France,Western Europe
+2023-08-22,Home & Kitchen,Vacuum Cleaner,250.04,5,1250.2,Denmark,Northern Europe
+2023-02-08,Home & Kitchen,Vacuum Cleaner,313.66,4,1254.64,Norway,Northern Europe
+2023-11-25,Clothing,Jacket,24.14,5,120.7,France,Western Europe
+2023-07-19,Beauty,Moisturizer,365.01,3,1095.03,Netherlands,Western Europe
+2023-05-24,Books,Fiction,385.47,3,1156.41,Netherlands,Western Europe
+2023-11-13,Electronics,Smartphone,471.43,1,471.43,Netherlands,Western Europe
+2023-09-15,Books,Biography,488.43,4,1953.72,Spain,Southern Europe
+2023-10-19,Clothing,Jeans,160.72,4,642.88,Sweden,Northern Europe
+2023-01-15,Beauty,Moisturizer,41.81,1,41.81,Switzerland,Western Europe
+2023-09-07,Clothing,T-Shirt,74.77,5,373.85,Spain,Southern Europe
+2023-07-30,Beauty,Moisturizer,26.57,1,26.57,Belgium,Western Europe
+2023-10-04,Books,Fiction,66.46,2,132.92,Germany,Western Europe
+2023-06-06,Books,Fiction,341.3,1,341.3,Switzerland,Western Europe
+2023-01-19,Beauty,Lipstick,225.31,1,225.31,Netherlands,Western Europe
+2023-02-14,Electronics,Headphones,431.41,5,2157.05,Sweden,Northern Europe
+2023-12-28,Clothing,T-Shirt,341.46,3,1024.38,Denmark,Northern Europe
+2023-07-09,Electronics,Smartphone,451.52,5,2257.6,Denmark,Northern Europe
+2023-12-03,Electronics,Headphones,215.45,4,861.8,Denmark,Northern Europe
+2023-10-15,Home & Kitchen,Cookware Set,395.01,2,790.02,Sweden,Northern Europe
