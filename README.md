@@ -38,7 +38,7 @@ An interactive Power BI dashboard analyzing e-commerce sales across different Eu
 ---
 
 ## 🔗 LinkedIn Post
-[Link to be added after posting]
+https://www.linkedin.com/posts/biswasroy-swarnaprava_powerbi-ecommerce-dashboard-activity-7355970610847535107-pon_?utm_source=share&utm_medium=member_desktop&rcm=ACoAADEg4fcB3UQzUUILFp_lMq-vI2YnuiBQqPI
 
 ---
 
